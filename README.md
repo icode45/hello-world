@@ -1,2 +1,4 @@
 # hello-world
-a new repository
+
+hi humans!
+the end is near!
